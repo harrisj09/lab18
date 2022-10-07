@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <shorts>
+      <element>
+         <country>United states</country>
+         <director>Domee Shi</director>
+         <image>bao_film_poster</image>
+         <producer>Becky Neiman-Cobb</producer>
+         <runtime>8</runtime>
+         <title>bao</title>
+         <winner>yes</winner>
+         <writer>Domnee Shi</writer>
+         <year>2018</year>
+      </element>
+      <element>
+         <country>Canada</country>
+         <director>Alison Snowden|David Fine</director>
+         <image>animal_behaviour_film_poster</image>
+         <producer>Michael Fukushima</producer>
+         <runtime>14</runtime>
+         <title>Animal Behaviour</title>
+         <winner>no</winner>
+         <writer>Alison Snowden|David Fine</writer>
+         <year>2018</year>
+      </element>
+      <element>
+         <country>Ireland</country>
+         <director>Louise Bagnall</director>
+         <image>late_afternoon_poster</image>
+         <producer>Nuria Gonzalez Blanco</producer>
+         <runtime>9</runtime>
+         <title>Late Afternoon</title>
+         <winner>no</winner>
+         <writer>Louise Bagnall</writer>
+         <year>2017</year>
+      </element>
+      <element>
+         <country>China|United States</country>
+         <director>Bobby Pontillas|Andrew Chesworth</director>
+         <image>one_small_step_poster</image>
+         <producer>Shaofu Zhang</producer>
+         <runtime>8</runtime>
+         <title>One Small Step</title>
+         <winner>no</winner>
+         <writer>Andrew Chesworth|Shaofu Zhang</writer>
+         <year>2018</year>
+      </element>
+      <element>
+         <country>United States</country>
+         <director>Glen Keane</director>
+         <image>dear_basketball</image>
+         <producer>Gennie Rim</producer>
+         <runtime>5</runtime>
+         <title>Dear Basketball</title>
+         <winner>yes</winner>
+         <writer>Kobe Bryant</writer>
+         <year>2017</year>
+      </element>
+      <element>
+         <country>France</country>
+         <director>Gabriel Grapperon|Florian Babikian|Victor Caire|Vincent Bayoux|Theophile Dufresne|Lucas Navarro</director>
+         <image>garden_party_poster</image>
+         <producer>Julien Deparis</producer>
+         <runtime>7</runtime>
+         <title>Garden Party</title>
+         <winner>no</winner>
+         <writer>--</writer>
+         <year>2017</year>
+      </element>
+      <element>
+         <country>United States</country>
+         <director>Dave Mullins</director>
+         <image>lou_poster</image>
+         <producer>Dana Murray</producer>
+         <runtime>6</runtime>
+         <title>Lou</title>
+         <winner>no</winner>
+         <writer>Dave Mullins</writer>
+         <year>2017</year>
+      </element>
+      <element>
+         <country>France</country>
+         <director>Ru Kuwahata|Max Porter</director>
+         <image>negative_space_poster</image>
+         <producer>Edwina Liard|Nidia Santiago</producer>
+         <runtime>5</runtime>
+         <title>Negative Space</title>
+         <winner>no</winner>
+         <writer>--</writer>
+         <year>2017</year>
+      </element>
+      <element>
+         <country>United Kingdom</country>
+         <director>Jakob Schuh|Jan Lachauer</director>
+         <image>revolting_rhymes_poster</image>
+         <producer>Martin Pope|Michael Rose</producer>
+         <runtime>29</runtime>
+         <title>Revolting Rhymes</title>
+         <winner>no</winner>
+         <writer>Roald Dahl</writer>
+         <year>2017</year>
+      </element>
+   </shorts>
+</root>
